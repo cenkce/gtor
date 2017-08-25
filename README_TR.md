@@ -1,17 +1,22 @@
 
-# Tepkililik(Reactivity) Uzerine Genel Bir Teori
+# Tepkililik(Reactivity) Genel Teorisi
 
 *A work in progress.*
 
+*Tepkililik Genel Teorisi'nin bir sunumundan üç kayıt var: [OSCON][], [MediterraneaJS][], [MidwestJS][]. Sunum burada gösterilmeyen şekil ve animasyonları içermektedir.*
+
+<details>
 *There are three recordings of a [presentation][] of A General Theory of
 Reactivity: [OSCON][], [MediterraneaJS][], [MidwestJS][]. The [presentation][]
 includes figures and animations not presented here.*
+</details>
 
 [presentation]: https://github.com/kriskowal/gtor/blob/master/presentation/README.md
 [OSCON]: https://www.youtube.com/watch?v=2p51PE1MZ8U
 [MediterraneaJS]: https://vimeo.com/144478375
 [MidwestJS]: https://www.youtube.com/watch?v=R9CGieinKVo
 
+<details>
 In the context of a computer program, reactivity is the process of receiving
 external stimuli and propagating events.
 This is a rather broad definition that covers a wide variety of topics.
@@ -33,6 +38,14 @@ concepts of space and time, and went on to incorporate gravity, to bring the
 three fundamentals of physical law into a single model.
 To a similar end, [various][Rx] minds in the field of reactivity have been
 converging on a model that unifies at least promises and observables.
+</details>
+
+Bir bilgisayar programı bağlamında(context), tepki, olayları dış uyaranlardan alma ve yaymaya çalışma işlemidir. Bu, geniş bir konu aralığını kapsayan oldukça kapsamlı bir tanımdır. Terim genellikle, algılayıcılara, programlara ve her şeyden önce, sandalye ve klavye arasında var olan sorunlara karşılık gelen sistemlere ayrılmıştır.
+
+Tepkililik sahası, "tepkili programlama" dan belirgin olarak farklı "işlevsel reaktif programlama" ve arazileri ayırmak için "kendinden hesaplama ayarlaması" ile ve "bağlamalar" ve "operasyonel dönüşümler" gibi komşu araziler oluşur. Katkılar, "devam etme stilini" sürdürmekten "vaatlere" ya da "ertelemeler" ve "vadeli" lerin ilgili kavramlarına kadar her şeyi destekliyorlar. Diğer sorunlar kendilerini "gözlemlenebilir", "sinyaller" veya "davranış" lara borçludur ve herkes "akışların" iyi bir fikir olduğunu kabul eder, ancak "yayıncılar" ve "aboneler" farklıdır.
+
+1905'de Einstein, uzay ve zaman kavramlarını birleştiren ve fiziksel yasanın üç temelini tek bir model haline getirmek için yerçekimini birleştiren bir özel görelilik teorisi yarattı. Benzer bir şekilde, tepki verme alanında çeşitli zihinler, en azından vaatleri ve gözlemlenebilirlikleri birleştiren bir model üzerinde bir araya geliyor.
+
 
 [Rx]: https://github.com/Reactive-Extensions/RxJS/blob/aaebfe8962cfa06a6c80908d079928ba5b800c66/doc/readme.md
 
