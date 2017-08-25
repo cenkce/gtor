@@ -1,5 +1,5 @@
 
-# Tepkililik Uzerine Bir Genel Teori
+# Tepkililik(Reactivity) Uzerine Genel Bir Teori
 
 *A work in progress.*
 
